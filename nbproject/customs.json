@@ -1,0 +1,13 @@
+{
+    "elements": {
+        "title": {}
+    },
+    "attributes": {
+        "http-equiv": {
+            "context": "meta"
+        },
+        "value": {
+            "context": "textarea"
+        }
+    }
+}
